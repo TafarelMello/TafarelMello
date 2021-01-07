@@ -33,6 +33,10 @@
 <hr>
 <hr>
 
+<<<<<<< HEAD
 ## 🚧 About me ...
 
 <img align="right" src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/images/aboutme.svg" alt="About me" width="360"/>
+=======
+### 🚧 I build with...
+>>>>>>> 8c5453ae2a063dd6615d3080f690d0a4ddf55c2a
