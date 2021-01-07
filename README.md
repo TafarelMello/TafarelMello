@@ -26,4 +26,18 @@
 
 ### 🚧 About me ...
 
-<img align="center" src="https://github.com/TafarelMello/tafarelmello/blob/main/assets/images/aboutme.png" alt="About me" width="460"/>
+```javascript
+const TafarelMello = {
+  passionateAbout: [
+    'Programming', 'Technology', 'Movies', 'Series', 'Anime', 'Games', 'Animals'
+  ],
+  currentlyLearning: [
+    'JavaScript', 'TypeScript', 'NodeJs', 'React', 'CSS', 'Java'
+  ],
+  knowledge: {
+    anyPath: ['Git', 'Bash', 'Regex', 'Design Patterns'],
+    code: ['JavaScript', 'TypeSript', 'Java', 'C#', 'C', 'HTML', 'CSS'],
+    tools: ['React', 'Angular', 'NodeJs', 'Jest', 'Docker', 'Spring']
+  }
+}
+```
