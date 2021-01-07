@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/images/tafarelmello.svg" alt="Tafarel Mello" width="360"/>
 
-## 📢 Find me elsewhere
+### 📢 Find me elsewhere
 <p align="center" style="margin: 10px"> 
   <a href="https://www.linkedin.com/in/tafarel-mello/">
     <img src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
@@ -23,10 +23,7 @@
 <hr>
 <hr>
 <hr>
-<hr>
-<hr>
 
+### 🚧 About me ...
 
-## 🚧 About me ...
-
-<img align="right" src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/images/aboutme.svg" alt="About me" width="360"/>
+<img align="center" src="https://github.com/TafarelMello/tafarelmello/blob/main/assets/images/aboutme.png" alt="About me" width="460"/>
