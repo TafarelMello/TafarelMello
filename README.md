@@ -26,4 +26,4 @@
 
 ### 🚧 About me ...
 
-<img align="center" src="https://github.com/TafarelMello/tafarelmello/blob/main/assets/images/aboutme.png" alt="About me" width="460"/>
+<img align="center" src="https://github.com/TafarelMello/tafarelmello/blob/main/assets/images/aboutme.PNG" alt="About me" width="560"/>
