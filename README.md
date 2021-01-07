@@ -5,7 +5,7 @@
 ## 📢 Find me elsewhere
 <p align="center" style="margin: 10px"> 
   <a href="https://www.linkedin.com/in/tafarel-mello/">
-    <img src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/badges/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 
   <a href="https://twitter.com/TafarelMello/">
@@ -25,18 +25,8 @@
 <hr>
 <hr>
 <hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
 
-<<<<<<< HEAD
+
 ## 🚧 About me ...
 
 <img align="right" src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/images/aboutme.svg" alt="About me" width="360"/>
-=======
-### 🚧 I build with...
->>>>>>> 8c5453ae2a063dd6615d3080f690d0a4ddf55c2a
