@@ -3,41 +3,34 @@
 <img align="right" src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/images/tafarelmello.svg" alt="Tafarel Mello" width="360"/>
 
 ### 📢 Find me elsewhere
-<p align="center" style="margin: 10px"> 
-  <a href="https://www.linkedin.com/in/tafarel-mello/">
-    <img src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/badges/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:5px">
-  </a>
 
-  <a href="https://twitter.com/TafarelMello/">
-    <img src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/badges/twitter.svg" alt="Twitter" style="vertical-align:top; margin:5px">
+<p align="left">
+  <a href="https://twitter.com/TafarelMello/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40">
   </a>
-
-  <a href="https://www.instagram.com/tafarelmello/">
-    <img src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/badges/instagram.svg" alt="Instagram" style="vertical-align:top; margin:5px">
-  </a>  
+  <a href="https://www.linkedin.com/in/tafarel-mello/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40">
+  </a>
+  <a href="https://www.instagram.com/tafarelmello/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40">
+  </a>
 </p>
 
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
 
 ### 🚧 About me ...
-
+  
 ```javascript
 const TafarelMello = {
   passionateAbout: [
     'Programming', 'Technology', 'Movies', 'Series', 'Anime', 'Games', 'Animals'
   ],
   currentlyLearning: [
-    'JavaScript', 'TypeScript', 'NodeJs', 'React', 'CSS', 'Java'
+    'JavaScript', 'TypeScript', 'NodeJs', 'React', 'React Native', 'CSS', 'Java', 'Spring Framework'
   ],
   knowledge: {
     anyPath: ['Git', 'Bash', 'Regex', 'Design Patterns'],
     code: ['JavaScript', 'TypeScript', 'Java', 'C#', 'C', 'HTML', 'CSS'],
-    tools: ['React', 'Angular', 'NodeJs', 'Jest', 'Docker', 'Spring']
+    tools: ['React', 'Angular', 'NodeJs', 'Jest', 'Docker', 'SpringFramework']
   }
 }
 ```
