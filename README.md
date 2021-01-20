@@ -1,6 +1,6 @@
 # 👋 Hi there 🤜🤛
 
-<img align="right" src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/images/tafarelmello.svg" alt="Tafarel Mello" width="360"/>
+<img align="right" src="https://raw.githubusercontent.com/TafarelMello/tafarelmello/main/assets/images/tafarelmello.svg" alt="Tafarel Mello" width="380"/>
 
 ### 📢 Find me elsewhere
 
@@ -15,6 +15,12 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40">
   </a>
 </p>
+
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+
 
 
 ### 🚧 About me ...
